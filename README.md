@@ -17,7 +17,7 @@
 
 ![dlogoh's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dlogoh&layout=compact&theme=dark&hide=html,css,scss,less,stylus,php,shell)
 
-![dlogoh's github stats](https://github-readme-stats.vercel.app/api?username=dlogoh&show_icons=true&theme=dark)
+[![dlogoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlogoh)](https://github.com/dlogoh/github-readme-stats)
 
 <!--
 **dlogoh/dlogoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
